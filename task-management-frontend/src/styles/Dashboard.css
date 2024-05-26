@@ -1,0 +1,25 @@
+.dashboard {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .stat-box {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .stat-box h3 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .stat-box p {
+    font-size: 18px;
+    color: #666;
+  }
+  
